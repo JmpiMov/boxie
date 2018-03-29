@@ -1,4 +1,6 @@
 # boxie
+<b>Don't worry I did not stop the project but until I have some free time I have to work less.</b>
+
 A usefull (project for now) compilation of tools, OS and virtualization for pentesting. 
 Under license :) 
 
